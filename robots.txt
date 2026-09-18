@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://brownphotographic.github.io/publii/sitemap.xml
+Sitemap: https://brownphotographic.com/sitemap.xml
