@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Rob Brown, photography and other things",
+    "title": "Rob Brown, photography and things",
     "description": "",
     "home_page_url": "https://brownphotographic.github.io/publii",
     "feed_url": "https://brownphotographic.github.io/publii/feed.json",
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2024-10-06T22:15:34-04:00",
-            "date_modified": "2024-10-06T22:15:34-04:00"
+            "date_modified": "2025-10-12T11:52:34-04:00"
         },
         {
             "id": "https://brownphotographic.github.io/publii/mountain-view-july.html",

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Rob Brown, photography and other things</title>
+    <title>Rob Brown, photography and things</title>
     <link href="https://brownphotographic.github.io/publii/feed.xml" rel="self" />
     <link href="https://brownphotographic.github.io/publii" />
-    <updated>2024-10-06T22:15:34-04:00</updated>
+    <updated>2025-10-12T11:52:34-04:00</updated>
     <author>
         <name>Rob Brown</name>
     </author>
@@ -156,7 +156,7 @@
             <category term="Maine"/>
 
         <updated>2023-02-26T21:09:14-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://brownphotographic.github.io/publii/media/posts/15/20061219_11-14-39.jpg" alt="" />
                     Photos from the state of Maine
@@ -398,7 +398,7 @@
             <category term="Boston"/>
 
         <updated>2023-02-26T20:54:18-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://brownphotographic.github.io/publii/media/posts/9/20041121_16-16-22.jpg" alt="" />
                     Boston and Cambridge Massachusetts
@@ -433,7 +433,7 @@
             <category term="Azores"/>
 
         <updated>2023-02-26T20:52:10-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://brownphotographic.github.io/publii/media/posts/8/20130416_12-26-39_WithAdjustments.jpg" alt="" />
                     The Azores 2013. A volcanic island chain in the middle of the&hellip;
