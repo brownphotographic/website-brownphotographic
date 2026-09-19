@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Rob Brown, photography and things</title>
+    <title>Brown Photographic</title>
     <link href="https://brownphotographic.com/feed.xml" rel="self" />
     <link href="https://brownphotographic.com" />
     <updated>2025-10-12T11:52:34-04:00</updated>
@@ -14,8 +14,8 @@
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographic.com/portugal.html"/>
-        <id>https://brownphotographic.com/portugal.html</id>
+        <link href="https://brownphotographic.com/portugal/"/>
+        <id>https://brownphotographic.com/portugal/</id>
         <media:content url="https://brownphotographic.com/media/posts/23/20240806_23351-Ilford100.jpg" medium="image" />
 
         <updated>2024-10-06T22:15:34-04:00</updated>
@@ -57,45 +57,12 @@
         </content>
     </entry>
     <entry>
-        <title>Mountain View July</title>
-        <author>
-            <name>Rob Brown</name>
-        </author>
-        <link href="https://brownphotographic.com/mountain-view-july.html"/>
-        <id>https://brownphotographic.com/mountain-view-july.html</id>
-        <media:content url="https://brownphotographic.com/media/posts/21/20230721_XPR22167.jpg" medium="image" />
-            <category term="photography"/>
-            <category term="Mountain View"/>
-            <category term="California"/>
-
-        <updated>2023-07-22T20:36:27-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://brownphotographic.com/media/posts/21/20230721_XPR22167.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://brownphotographic.com/media/posts/21/20230721_XPR22167-2.jpg" alt="" width="2500" height="1666" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://brownphotographic.com/media/posts/21/responsive/20230721_XPR22167-2-xs.jpg 300w ,https://brownphotographic.com/media/posts/21/responsive/20230721_XPR22167-2-sm.jpg 480w ,https://brownphotographic.com/media/posts/21/responsive/20230721_XPR22167-2-md.jpg 768w ,https://brownphotographic.com/media/posts/21/responsive/20230721_XPR22167-2-lg.jpg 1024w"></figure>
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22167_modified.jpg" data-size="4000x2665"><img loading="lazy" src="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22167_modified-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
-<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22168-2.jpg" data-size="2500x1667"><img loading="lazy" src="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22168-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22169_modified.jpg" data-size="4000x2666"><img loading="lazy" src="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22169_modified-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22171.jpg" data-size="2500x1667"><img loading="lazy" src="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22171-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22173-2.jpg" data-size="2500x1667"><img loading="lazy" src="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22173-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22174-2.jpg" data-size="2500x1667"><img loading="lazy" src="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22174-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22177-2.jpg" data-size="2500x1667"><img loading="lazy" src="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22177-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22183.jpg" data-size="2500x1667"><img loading="lazy" src="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22183-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22185.jpg" data-size="2500x1667"><img loading="lazy" src="https://brownphotographic.com/media/posts/21/gallery/20230721_XPR22185-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-</div></div>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Massachusetts Countryside</title>
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographic.com/massachusetts-countryside.html"/>
-        <id>https://brownphotographic.com/massachusetts-countryside.html</id>
+        <link href="https://brownphotographic.com/massachusetts-countryside/"/>
+        <id>https://brownphotographic.com/massachusetts-countryside/</id>
         <media:content url="https://brownphotographic.com/media/posts/16/20151023_11-51-52_WithAdjustments.jpg" medium="image" />
             <category term="photography"/>
             <category term="Massachusetts"/>
@@ -148,8 +115,8 @@
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographic.com/photography-maine.html"/>
-        <id>https://brownphotographic.com/photography-maine.html</id>
+        <link href="https://brownphotographic.com/photography-maine/"/>
+        <id>https://brownphotographic.com/photography-maine/</id>
         <media:content url="https://brownphotographic.com/media/posts/15/20061219_11-14-39.jpg" medium="image" />
             <category term="photography"/>
             <category term="USA"/>
@@ -194,8 +161,8 @@
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographic.com/photography-london.html"/>
-        <id>https://brownphotographic.com/photography-london.html</id>
+        <link href="https://brownphotographic.com/photography-london/"/>
+        <id>https://brownphotographic.com/photography-london/</id>
         <media:content url="https://brownphotographic.com/media/posts/14/20040503_22-24-18.jpg" medium="image" />
             <category term="photography"/>
             <category term="United Kingdom"/>
@@ -247,8 +214,8 @@
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographic.com/photography-coastal-massachusetts.html"/>
-        <id>https://brownphotographic.com/photography-coastal-massachusetts.html</id>
+        <link href="https://brownphotographic.com/photography-coastal-massachusetts/"/>
+        <id>https://brownphotographic.com/photography-coastal-massachusetts/</id>
         <media:content url="https://brownphotographic.com/media/posts/11/20151223_10-03-53-v1_WithAdjustments.jpg" medium="image" />
             <category term="photography"/>
             <category term="New England"/>
@@ -315,8 +282,8 @@
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographic.com/british-countryside.html"/>
-        <id>https://brownphotographic.com/british-countryside.html</id>
+        <link href="https://brownphotographic.com/british-countryside/"/>
+        <id>https://brownphotographic.com/british-countryside/</id>
         <media:content url="https://brownphotographic.com/media/posts/10/20041022_17-31-44.jpg" medium="image" />
             <category term="photography"/>
             <category term="United Kingdom"/>
@@ -388,8 +355,8 @@
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographic.com/boston.html"/>
-        <id>https://brownphotographic.com/boston.html</id>
+        <link href="https://brownphotographic.com/boston/"/>
+        <id>https://brownphotographic.com/boston/</id>
         <media:content url="https://brownphotographic.com/media/posts/9/20041121_16-16-22.jpg" medium="image" />
             <category term="photography"/>
             <category term="USA"/>
@@ -424,8 +391,8 @@
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographic.com/photography-azores.html"/>
-        <id>https://brownphotographic.com/photography-azores.html</id>
+        <link href="https://brownphotographic.com/photography-azores/"/>
+        <id>https://brownphotographic.com/photography-azores/</id>
         <media:content url="https://brownphotographic.com/media/posts/8/20130416_12-26-39_WithAdjustments.jpg" medium="image" />
             <category term="photography"/>
             <category term="Portugal"/>
@@ -472,8 +439,8 @@
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographic.com/san-francisco-south-bay.html"/>
-        <id>https://brownphotographic.com/san-francisco-south-bay.html</id>
+        <link href="https://brownphotographic.com/san-francisco-south-bay/"/>
+        <id>https://brownphotographic.com/san-francisco-south-bay/</id>
         <media:content url="https://brownphotographic.com/media/posts/5/20220630_XPR23019.jpg" medium="image" />
             <category term="photography"/>
             <category term="San Francisco"/>
@@ -519,6 +486,48 @@
 <figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/5/gallery/20230301_XPR21930-400H-Retinex-3.jpg" data-size="1900x1267"><img loading="lazy" src="https://brownphotographic.com/media/posts/5/gallery/20230301_XPR21930-400H-Retinex-3-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/5/gallery/20230303_XPR21934-Astia-3.jpg" data-size="1900x1267"><img loading="lazy" src="https://brownphotographic.com/media/posts/5/gallery/20230303_XPR21934-Astia-3-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/5/gallery/20230606_XPR21999-Velvia.jpg" data-size="2500x1667"><img loading="lazy" src="https://brownphotographic.com/media/posts/5/gallery/20230606_XPR21999-Velvia-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>World War 1 Fighter Planes and Wheelwrights</title>
+        <author>
+            <name>Rob Brown</name>
+        </author>
+        <link href="https://brownphotographic.com/world-war-1-fighter-planes-and-wheelwrights/"/>
+        <id>https://brownphotographic.com/world-war-1-fighter-planes-and-wheelwrights/</id>
+        <media:content url="https://brownphotographic.com/media/posts/4/25570732865_00e2d2267f_c.jpg" medium="image" />
+            <category term="familyhistory"/>
+
+        <updated>2023-02-25T20:47:23-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://brownphotographic.com/media/posts/4/25570732865_00e2d2267f_c.jpg" alt="" />
+                    My great-grandfather and great-great-grandfather (Reginald and Henry Boddington) were wheelwrights in Weston-on-the-Green,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://brownphotographic.com/media/posts/4/25570732865_00e2d2267f_c.jpg" class="type:primaryImage" alt="" /></p>
+                <p>My great-grandfather and great-great-grandfather (Reginald and Henry Boddington) were wheelwrights in Weston-on-the-Green, Oxfordshire. In 1919, the RAF was winding down and Henry came across some Bristol Fighter ‘Brisfit’ F2b (<a href="https://en.wikipedia.org/wiki/Bristol_F.2_Fighter"  class="extlink extlink-icon-1"  >https://en.wikipedia.org/wiki/Bristol_F.2_Fighter</a>) fuselages. Six ended up being used as roof trusses for a workshop.</p>
+<p>In June 1965, the workshop was taken down and the fuselages were dispersed to the RAF Museum and private collectors. One of them appears to have made it all the way to New Zealand and is in the hands of the film director Peter Jackson. A couple appear to have made it to the USA; recently I was contacted by the friend of the restorer looking for some more information, so my parents dug out the photos, articles and letters and we forwarded them on.</p>
+<p>As a child I remember playing in the remaining workshop with my grandfather (Robert Fox), surrounded by all the old tools, wheel and cart pieces and old wood. I still remember that smell of the wood, sawdust and cobwebs.</p>
+<p>Here are some photos and articles:<br><br></p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/4/gallery/dismantling-workshop-roof-2_25544602166_o.jpg" data-size="1491x1036"><img loading="lazy" src="https://brownphotographic.com/media/posts/4/gallery/dismantling-workshop-roof-2_25544602166_o-thumbnail.jpg" alt="" width="768" height="534"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/4/gallery/dismantling-workshop-roof-1_25570733135_o.jpg" data-size="1488x1029"><img loading="lazy" src="https://brownphotographic.com/media/posts/4/gallery/dismantling-workshop-roof-1_25570733135_o-thumbnail.jpg" alt="" width="768" height="531"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/4/gallery/dismantling-workshop-roof-3_25570732865_o.jpg" data-size="1488x1040"><img loading="lazy" src="https://brownphotographic.com/media/posts/4/gallery/dismantling-workshop-roof-3_25570732865_o-thumbnail.jpg" alt="" width="768" height="537"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/4/gallery/dismantling-workshop-roof-4_25544601746_o.jpg" data-size="1495x1040"><img loading="lazy" src="https://brownphotographic.com/media/posts/4/gallery/dismantling-workshop-roof-4_25544601746_o-thumbnail.jpg" alt="" width="768" height="534"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/4/gallery/further-adventures-page-1_24944046123_o.jpg" data-size="2552x3496"><img loading="lazy" src="https://brownphotographic.com/media/posts/4/gallery/further-adventures-page-1_24944046123_o-thumbnail.jpg" alt="" width="768" height="1052"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/4/gallery/further-adventures-page-2_25275123770_o.jpg" data-size="2552x1900"><img loading="lazy" src="https://brownphotographic.com/media/posts/4/gallery/further-adventures-page-2_25275123770_o-thumbnail.jpg" alt="" width="768" height="572"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/4/gallery/letter-1_24944044993_o.jpg" data-size="2552x3600"><img loading="lazy" src="https://brownphotographic.com/media/posts/4/gallery/letter-1_24944044993_o-thumbnail.jpg" alt="" width="768" height="1083"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/4/gallery/letter-2_24944044323_o.jpg" data-size="1735x2230"><img loading="lazy" src="https://brownphotographic.com/media/posts/4/gallery/letter-2_24944044323_o-thumbnail.jpg" alt="" width="768" height="987"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/4/gallery/letter-3_25452165482_o.jpg" data-size="1725x2470"><img loading="lazy" src="https://brownphotographic.com/media/posts/4/gallery/letter-3_25452165482_o-thumbnail.jpg" alt="" width="768" height="1100"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/4/gallery/oxford-times-article-wwi-brisfit-bristol-fighter-f2b-fuselages_24944043863_o.jpg" data-size="3130x8190"><img loading="lazy" src="https://brownphotographic.com/media/posts/4/gallery/oxford-times-article-wwi-brisfit-bristol-fighter-f2b-fuselages_24944043863_o-thumbnail.jpg" alt="" width="768" height="2010"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/4/gallery/workshop-roof-truss-1_24940226784_o.jpg" data-size="1485x1040"><img loading="lazy" src="https://brownphotographic.com/media/posts/4/gallery/workshop-roof-truss-1_24940226784_o-thumbnail.jpg" alt="" width="768" height="538"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/4/gallery/workshop-roof-truss-2_25203180399_o.jpg" data-size="1491x1029"><img loading="lazy" src="https://brownphotographic.com/media/posts/4/gallery/workshop-roof-truss-2_25203180399_o-thumbnail.jpg" alt="" width="768" height="530"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.com/media/posts/4/gallery/workshop-roof-truss-3_25570726735_o.jpg" data-size="1026x1501"><img loading="lazy" src="https://brownphotographic.com/media/posts/4/gallery/workshop-roof-truss-3_25570726735_o-thumbnail.jpg" alt="" width="768" height="1124"></a></figure>
 </div></div>
             ]]>
         </content>
